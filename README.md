@@ -12,8 +12,5 @@ This project focuses purely on layout, styling, and responsive design — there 
 - HTML5
 - CSS3
 
-## 📷 Preview
-![Website Screenshot](girl.jpg)
-
 ---
 💡 This project is a front-end design only and serves as a preview of a personal portfolio layout.
