@@ -12,7 +12,7 @@ This project focuses purely on layout, styling, and responsive design — there 
 - HTML5
 - CSS3
 
-🚀 Live Demo:
-👉 https://portfolio-mu-ten-dvkggwyerk.vercel.app/
+## 🚀 Live Demo:
+- 👉 https://portfolio-mu-ten-dvkggwyerk.vercel.app/
 ---
 💡 This project is a front-end design only and serves as a preview of a personal portfolio layout.
